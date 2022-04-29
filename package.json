@@ -1,0 +1,27 @@
+{
+  "name": "api-tests-with-jest-supertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "@hapi/joi": "^17.1.1",
+    "jest": "^28.0.3",
+    "supertest": "^6.2.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisonalves/api-tests-with-jest-supertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisonalves/api-tests-with-jest-supertest/issues"
+  },
+  "homepage": "https://github.com/davisonalves/api-tests-with-jest-supertest#readme"
+}
